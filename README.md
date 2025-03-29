@@ -17,9 +17,3 @@
 ## Struttura del progetto
 
 Il progetto è stato sviluppato utilizzando una struttura monolitica, con l'intera logica del gioco gestita nel file `main`. Tuttavia, sarebbe stato preferibile utilizzare il pattern **MVC** (Model-View-Controller) per suddividere meglio la logica in moduli separati, migliorando la manutenibilità e la scalabilità del codice. La scelta di un'architettura più modulare avrebbe permesso una gestione più chiara e un'evoluzione più semplice del progetto.
-
-## Come iniziare
-
-1. **Clona il repository**:
-   ```bash
-   git clone https://github.com/tuo-repository/OpenMinds.git
