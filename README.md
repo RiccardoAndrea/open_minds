@@ -1,6 +1,6 @@
 # OpenMinds
 
-**OpenMinds** è un'applicazione iOS progettata per sensibilizzare i bambini sulla **prevenzione dal fumo** attraverso un gioco educativo. Il gioco è una corsa infinita: quando il bambino perde, viene mostrato un breve video educativo animato che sensibilizza il bambino sui pericoli del fumo e sull'importanza di evitare questa cattiva abitudine. Il progetto si concentra sulla **prevenzione** e sull'educazione dei bambini su questo tema importante.
+**OpenMinds** è un'applicazione iOS progettata per sensibilizzare i bambini sulla **prevenzione dal fumo** attraverso un gioco educativo. Il gioco è una corsa infinita: quando il bambino perde, viene mostrato un breve video educativo animato che sensibilizza il bambino sui pericoli del fumo e sull'importanza di evitare questa cattiva abitudine. Il progetto si concentra sulla **prevenzione** e sull'educazione dei bambini su questo tema importante. progetto realizzato con un team si sviluppo di 6 persone
 
 ## Funzionalità
 
@@ -14,6 +14,3 @@
 - **Xcode**: Ambiente di sviluppo integrato (IDE) utilizzato per la creazione dell'app.
 - **SpriteKit**: Framework utilizzato per la creazione del gioco, che offre strumenti per la gestione di animazioni, fisica e rendering 2D.
 
-## Struttura del progetto
-
-Il progetto è stato sviluppato utilizzando una struttura monolitica, con l'intera logica del gioco gestita nel file `main`. Tuttavia, sarebbe stato preferibile utilizzare il pattern **MVC** (Model-View-Controller) per suddividere meglio la logica in moduli separati, migliorando la manutenibilità e la scalabilità del codice. La scelta di un'architettura più modulare avrebbe permesso una gestione più chiara e un'evoluzione più semplice del progetto.
